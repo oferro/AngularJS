@@ -1,0 +1,46 @@
+body {
+	direction: rtl;
+}
+
+nav {
+	width: 260px;
+}
+
+nav ul {
+	padding: 0;
+}
+
+nav ul li {
+	display: inline-block;
+	background-color: green;
+	width: 80px;
+	text-align: center;
+}
+
+nav ul li a {
+	width: 30px;
+	margin: 5px auto;
+	color: white;
+	
+}
+
+#movie-list {
+	border-bottom: solid 2px blue;
+	width: 200px;
+}
+
+
+#movie-list h2, #movie-list p {
+	text-align: center;
+}
+
+#movie-list img {
+	position:relative;
+	right: 40px;
+	width: 100px;
+	margin: 0 auto;
+}
+
+#movie-list:first-child {
+	border-top: solid 2px blue;
+}
