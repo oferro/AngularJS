@@ -2,9 +2,6 @@ body {
 	direction: rtl;
 }
 
-nav {
-	width: 260px;
-}
 
 nav ul {
 	padding: 0;
@@ -16,14 +13,10 @@ nav ul li {
 	width: 80px;
 	height: 40px;
 	padding: 5px 0;
-}
-
-nav ul li a {
-	width: 30px;
-	margin: 5px auto;
 	color: white;
-
-	
+	cursor: pointer;
+	margin-right: 5px;
+	text-align: center;
 }
 
 #movie-list {
