@@ -25,6 +25,18 @@
 			  	];
 			  	$scope.setOption = function(opt) {
 			  		
-			  	}
+			  	};
 			});
 			
+			app.controller("topMovies", function($scope, $http) {
+					$http.get('15-movies.json').success(function(data) {
+						$scope.topMovies = data;
+				});
+			});
+			
+			app.directive("movie", function(){
+				return {
+					restrict:"AE",
+					templateUrl: "movie-template.html"
+				};
+			});			

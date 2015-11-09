@@ -1,0 +1,63 @@
+[
+	{
+		"name": "The Shawshank Redemption",
+		"length": 142,
+		"actors": "Tim Robbins, Morgan Freeman, Bob Gunton",
+		"director": "Frank Darabont",
+		"imdbLink": "http://www.imdb.com/media/rm3597327872/tt0111161?ref_=tt_ov_i"
+	}, {
+		"name": "The Godfather",
+		"length": 175,
+		"actors": "Marlon Brando, Al Pacino, James Caan",
+		"director": "Francis Ford Coppola",
+		"imdbLink": "http://www.imdb.com/media/rm330345472/tt0068646?ref_=tt_ov_i"
+	}, {
+		"name": "The Godfather: Part II",
+		"length": 202,
+		"actors": "Al Pacino, Robert De Niro, Robert Duvall",
+		"director": "Francis Ford Coppola",
+		"imdbLink": "http://www.imdb.com/media/rm313568256/tt0071562?ref_=tt_ov_i"
+	}, {
+		"name": "The Dark Knight",
+		"length": 152,
+		"actors": "Christian Bale, Heath Ledger, Aaron Eckhart",
+		"director": "Christopher Nolan",
+		"imdbLink": "http://www.imdb.com/title/tt0468569/?ref_=ttmd_ph_tt1"
+	}, {
+		"name": "12 Angry Men",
+		"length": 96,
+		"actors": "Henry Fonda, Lee J. Cobb, Martin Balsam",
+		"director": "Sidney Lumet",
+		"imdbLink": "http://www.imdb.com/media/rm382764288/tt0050083?ref_=tt_ov_i"
+	}, {
+		"name": "Schindler's List",
+		"length": 195,
+		"actors": "Liam Neeson, Ralph Fiennes, Ben Kingsley",
+		"director": "Steven Spielberg",
+		"imdbLink": "http://www.imdb.com/media/rm3662600448/tt0108052?ref_=tt_ov_i"
+	}, {
+		"name": "Pulp Fiction",
+		"length": 154,
+		"actors": "John Travolta, Uma Thurman, Samuel L. Jackson",
+		"director": "Quentin Tarantino",
+		"imdbLink": "http://www.imdb.com/media/rm2757881600/tt0110912?ref_=tt_ov_i"
+	}, {
+		"name": "The Good, the Bad and the Ugly",
+		"length": 161,
+		"actors": "Clint Eastwood, Eli Wallach, Lee Van Cleef",
+		"director": "Sergio Leone",
+		"imdbLink": "http://www.imdb.com/media/rm3188773120/tt0060196?ref_=tt_ov_i"
+	}, {
+		"name": "The Lord of the Rings: The Return of the King",
+		"length": 201,
+		"actors": "Elijah Wood, Viggo Mortensen, Ian McKellen",
+		"director": "Peter Jackson",
+		"imdbLink": "http://www.imdb.com/media/rm3623329024/tt0167260?ref_=tt_ov_i"
+	}, {
+		"name": "Fight Club",
+		"length": 139,
+		"actors": "Brad Pitt, Edward Norton, Helena Bonham Carter",
+		"director": "David Fincher",
+		"imdbLink": "http://www.imdb.com/media/rm414231552/tt0137523?ref_=tt_ov_i"
+	}
+]

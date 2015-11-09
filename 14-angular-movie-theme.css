@@ -39,3 +39,7 @@ nav ul li {
 #movie-list:first-child {
 	border-top: solid 2px blue;
 }
+
+.mov {
+	border-top: solid 2px blue;
+}
