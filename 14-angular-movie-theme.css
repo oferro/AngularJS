@@ -40,6 +40,13 @@ nav ul li {
 	border-top: solid 2px blue;
 }
 
+.control {
+	border: double 3px red;
+	width: 45%;
+	float: right;
+	margin: 3px;
+}
+
 .mov {
 	border-top: solid 2px blue;
 }

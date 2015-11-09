@@ -31,9 +31,10 @@
 				</ul>
 			</nav>
 
-			<h1>שחקנים</h1>
 		</div>
-		<div ng-controller="movieCtrl">
+		<div class="control" ng-controller="movieCtrl">
+			<h1>שחקנים</h1>
+			
 			<p>
 				חיפוש לפי שם :
 				<input ng-model="byName">
@@ -54,7 +55,10 @@
 				</p>
 			</div>
 		</div>
-		<div ng-controller="topMovies">
+		<div class="control" ng-controller="topMovies">
+
+		<h1>המובילים</h1>
+
 <!--		<movie ng-repeat="movie in topMovies"></movie>  -->
 			<p>
 				חיפוש :
